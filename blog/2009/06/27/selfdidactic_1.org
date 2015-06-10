@@ -3,6 +3,7 @@
 #+EMAIL:       tim@selfdidactic.com
 #+DATE:        2009-06-27 Sat
 #+CATEGORY: Education
+#+TAGS: Education
 
 "You need to go to college. You'll never amount to anything without a college
 education." I cannot tell you how many times I heard these words growing up. Far

@@ -3,6 +3,7 @@
 #+EMAIL:       tim@selfdidactic.com
 #+DATE:        2009-06-28 Sun
 #+CATEGORY: Education
+#+TAGS: Education
 
 In spite of all my 'un-disciplined' characteristics, I have learned to be very
 disciplined in other ways.
