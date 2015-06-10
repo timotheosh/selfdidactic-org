@@ -2,8 +2,8 @@
 #+AUTHOR:      Tim Hawes
 #+EMAIL:       tim@selfdidactic.com
 #+DATE:        2015-06-09 Tue
-#+CATEGORIES Education
-#+TAGS "Henry Adams" Education
+#+CATEGORY: Education
+#+TAGS: Henry Adams, Education
 #+begin_src
 "Nothing in education is so astonishing as the amount of ignorance it
 accumulates in the form of inert facts."
