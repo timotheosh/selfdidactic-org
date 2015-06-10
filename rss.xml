@@ -4,9 +4,23 @@
     <title>your main slogan</title>
     <link>http://selfdidactic.com/</link>
     <description>your sub slogan</description>
-    <pubDate>Tue, 09 Jun 2015 21:56:23 EDT</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 21:56:23 EDT</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2015 22:26:00 EDT</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2015 22:26:00 EDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Self Didactic Part I</title>
+      <link>http://selfdidactic.com/blog/2009/06/27/self-didactic-part-i/</link>
+      <description>No Description</description>
+      <pubDate>2015-06-09</pubDate>
+      <guid>http://selfdidactic.com/blog/2009/06/27/self-didactic-part-i/</guid>
+    </item>
+    <item>
+      <title>Self Didactic Part II</title>
+      <link>http://selfdidactic.com/blog/2009/06/28/self-didactic-part-ii/</link>
+      <description>No Description</description>
+      <pubDate>2015-06-09</pubDate>
+      <guid>http://selfdidactic.com/blog/2009/06/28/self-didactic-part-ii/</guid>
+    </item>
   </channel>
 </rss>
